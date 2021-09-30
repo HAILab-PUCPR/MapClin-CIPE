@@ -1,5 +1,7 @@
 # MapClin-CIPE
 
+Mapeamento de termos para CIPE.
+
 O código .ipynb possui 3 partes:
 - Instalação, com os imports e pip install necessários;
 - Função do MapClin;
