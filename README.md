@@ -10,6 +10,6 @@ Para rodar são necessários 5 arquivos como input:
 2) Tabela da CIPE, sendo que a aba precisa se chamar Planilha1 (segue exemplo em anexo);
 
 e 3 arquivos da UMLS; Fazer download dos dados da UMLS 2021 e descompactar:
-4) MRCONSO.RRF;
-5) MRXW_POR.RRF;
-6) MRREL.RRF;
+3) MRCONSO.RRF;
+4) MRXW_POR.RRF;
+5) MRREL.RRF;
