@@ -8,7 +8,7 @@ O código .ipynb possui 3 partes:
 - Exemplo de como chamar a função;
 
 Para rodar são necessários 5 arquivos como input:
-1) Lista de termos no excel, sendo que a aba precisa se chamar Planilha1 e a primeira linha precisa se chamar Termos;
+1) Lista de termos no excel, sendo que a aba precisa se chamar Planilha1 e a primeira linha precisa se chamar Termos; Numeração das linhas (esquerda) deve ser sequencial;
 2) Tabela da CIPE, sendo que a aba precisa se chamar Planilha1;
 3) e 3 arquivos da UMLS; 
 Fazer download dos dados da UMLS 2021 e descompactar:
